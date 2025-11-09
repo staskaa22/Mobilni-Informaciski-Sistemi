@@ -4,8 +4,7 @@
 A new Flutter project.
 
 ## Video recorded
-<video controls src="Распоред за испити - Google Chrome 2025-11-09 14-00-23.mp4" title="Title"></video>
-
+![App Demo](Raspored_za_ispiti.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
