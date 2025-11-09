@@ -1,7 +1,10 @@
-<video controls src="Распоред за испити - Google Chrome 2025-11-09 14-00-23.mp4" title="Title"></video>
+
 # flutter_application_1
 
 A new Flutter project.
+
+## Video recorded
+<video controls src="Распоред за испити - Google Chrome 2025-11-09 14-00-23.mp4" title="Title"></video>
 
 ## Getting Started
 
